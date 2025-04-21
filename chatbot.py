@@ -18,7 +18,7 @@ while True:
         print("Chatbot: I'm your Python-made chatbot! What's your name?")
     elif re.search(r"\bupo\b", user_input):
         print("Chatbot: pagla 😆")
-    elif re.search(r"who is mahin", user_input):
+    elif re.search(r"who is ayaan", user_input):
         print("Chatbot: Mahin is a calm, shy, and intelligent person! 😌")
     
     else:
